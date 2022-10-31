@@ -1,9 +1,5 @@
 # React Use HubSpot Form Embed
 
-[![npm (scoped)](https://img.shields.io/npm/v/@groverj324/react-hubspot-form?style=flat-square)](https://www.npmjs.com/package/@groverj324/react-hubspot-form)
-[![Bundle Size](https://img.shields.io/bundlephobia/min/@groverj324/react-hubspot-form?style=flat-square)](https://bundlephobia.com/result?p=@groverj324/react-hubspot-form)
-![License](https://img.shields.io/npm/l/@groverj324/react-hubspot-form?style=flat-square)
-
 Embed HubSpot forms into your React components using hooks! Works with Create React App, Gatsby and other platforms.
 
 ## Install
@@ -62,7 +58,3 @@ const MyPage = () => {
 ### 1.0.0
 
 - Introduction of the `HubspotProvider` component. This needs to be included in your App for `useHubspotForm` to work.
-
-## Support
-
-If you feel like sending some sats to aaron@zbd.gg my [Lightning Address](https://zbd.gg/aaron/) it would be much appreciated.
